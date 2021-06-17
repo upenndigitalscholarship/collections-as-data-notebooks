@@ -1,6 +1,7 @@
 # Collections As Data Notebooks at Penn Libraries
 
 These notebooks contain tutorials and examples for working with collections data from Penn Libraries.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/upenndigitalscholarship/collections-as-data-notebooks/HEAD)
 
 ## Working With Colenda Data
 [Colenda Digital Repository at Penn Libraries](https://colenda.library.upenn.edu/) is a digital repository for digitized and born-digital material. It provides direct access and long-term stewardship for these important resources. Much of Colenda’s content consists of materials owned and digitized by the Penn Libraries, including significant collections that have been donated.
