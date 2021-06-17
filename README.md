@@ -14,9 +14,6 @@ These notebooks use data from the [Arnold and Deanne Kaplan Collection of Early 
 
 * Explore Colenda Items by Place (kaplan_explore_places): In this notebook we'll explore the spatial dimensions of data harvested from Colenda. What places are associated with these items? To do that we'll extract the spatial data, see what's there, and create a few maps.
 
-In this notebook we'll have a preliminary look at data harvested from Colenda. I'll focus here on the basic shape/stats of the data. Other notebooks will explore data from Colenda over [time](kaplan_explore_time.ipynb) and [space](kaplan_explore_places.ipynb).
-These notebooks are designed to work with Colenda data.
-
 --
 
 These notebooks references existing code and Jupyter notebooks, including:
