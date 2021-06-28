@@ -1,0 +1,14 @@
+pandas
+ipyleaflet
+ipywidgets 
+reverse_geocode
+altair
+IPython
+vega_datasets
+geopandas
+geopy
+numpy
+requests 
+ipywidgets
+statistics
+requests
