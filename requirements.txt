@@ -12,3 +12,6 @@ requests
 ipywidgets
 statistics
 requests
+altair_saver
+
+
