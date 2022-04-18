@@ -1,0 +1,1242 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania LJS 488: Cose di geometria</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>University of Pennsylvania</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Kislak Center for Special Collections, Rare Books and Manuscripts LJS 488: Cose di geometria are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©  and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title for manuscript from opening rubrics for component works (f. 1r, 8v).</note>
+        <note>Ms. codex.</note>
+        <note>4. f.18r: [Recipes for remedies for stomach ache]</note>
+        <note>3. f.17r: Modus faciendi atramentum pro scribendo.</note>
+        <note>2. f.8v-16r: Mesure de colonne e capitelli / estracte da Vitruvio e Leone Batista Alberti.</note>
+        <note>1. f.1r-8r: Cose di geometria / estratte dal frate dal Borgo.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Kislak Center for Special Collections, Rare Books and Manuscripts</repository>
+            <idno type="call-number">LJS 488</idno>
+            <altIdentifier type="bibid">
+              <idno>9958490103503681</idno>
+            </altIdentifier>
+            <altIdentifier type="oclc">
+              <idno>http://www.worldcat.org/oclc/815972360</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>https://openn.library.upenn.edu/Data/0001/html/ljs488.html https://colenda.library.upenn.edu/catalog/81431-p3zp43 http://hdl.library.upenn.edu/1017/d/medren/5849010 http://hdl.library.upenn.edu/1017.12/366278</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Excerpts from the second part of Luca Pacioli's synthesis of mathematics, first printed in Venice in 1494, concerning geometry; and from the sixth and seventh books of Leon Battista Alberti's architectural treatise De re aedificatoria, concerning the architectural orders of columns and capitals (Doric, Ionic, Corinthian). One page of recipes in Latin for ink (f. 17r) and one page of recipes in Italian for stomach ache (f. 18r) at the end of the manuscript.</summary>
+            <textLang mainLang="ita" otherLangs="lat">Italian (Venetian dialect), with three recipes in Latin (f. 17r)</textLang>
+            <msItem>
+              <title>Cose di geometria</title>
+              <author>
+                <persName type="authority">Pacioli, Luca, ca. 1445-1517</persName>
+              </author>
+              <author>
+                <persName type="authority">Alberti, Leon Battista, 1404-1472</persName>
+              </author>
+              <author>
+                <name type="authority">Lawrence J. Schoenberg Collection (University of Pennsylvania)</name>
+              </author>
+            </msItem>
+            <msItem n="1r">
+              <locus>1r</locus>
+              <title>Cose di geometria, f. 1r</title>
+            </msItem>
+            <msItem n="8v">
+              <locus>8v</locus>
+              <title>Mesure de colonne e capitelli, f. 8v</title>
+            </msItem>
+            <msItem n="17r">
+              <locus>17r</locus>
+              <title>Modus faciendi atramentum pro scribendo, f. 17r</title>
+            </msItem>
+            <msItem n="18r">
+              <locus>18r</locus>
+              <title>Recipes for remedies for stomach ache, f. 18r</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="mixed">
+                <support>
+                  <p>paper</p>
+                  <watermark>Similar to Briquet Aigle 87 (Florence, 1495; Venice) and Aigle 88 (Florence, 1498; Pisa, 1497-1502; Venice, 1498).</watermark>
+                </support>
+                <extent>18 leaves : 204 x 150 mm. bound to 212 x 158 mm</extent>
+                <foliation>Paper, 18; 1-16, [17-18], contemporary foliation in ink, modern foliation in pencil, upper right recto.</foliation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 18-28 long lines.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in humanistic cursive (italic) script in one hand, with recipes added at the end by a slightly later hand (f. 17r-18r).</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Small geometric diagrams in first work (f. 2v-8r), some with points lettered or captioned in faint red ink; 2-line faint red initials in first work (f. 1r-6r); rubrics in faint red ink throughout.</decoNote>
+              <decoNote n="2v">Diagram, f. 2v</decoNote>
+              <decoNote n="3r">Diagram, f. 3r</decoNote>
+              <decoNote n="4r">Diagram, f. 4r</decoNote>
+              <decoNote n="5r">Diagram, f. 5r</decoNote>
+              <decoNote n="5v">Diagram, f. 5v</decoNote>
+              <decoNote n="6v">Diagram, f. 6v</decoNote>
+              <decoNote n="7r">Diagram, f. 7r</decoNote>
+              <decoNote n="8r">Diagram, f. 8r</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Modern calf, blind-ruled.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Italy, probably in Venice, after 1494 (date of first edition of Pacioli's Summa and dates of watermarks).</p>
+              <origDate>after 1494</origDate>
+              <origPlace>Venice?, Italy</origPlace>
+            </origin>
+            <provenance>Sold by Les Enluminures (Paris and Chicago) to Lawrence J. Schoenberg, 2007.</provenance>
+            <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2012.</provenance>
+            <provenance>Formerly held in a private collection in Europe.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <classDecl>
+        <taxonomy xml:id="keywords">
+          <category xml:id="keyword_1">
+            <catDesc>Book Type</catDesc>
+            <category xml:id="keyword_1.2">
+              <catDesc>Accounts</catDesc>
+            </category>
+            <category xml:id="keyword_1.3">
+              <catDesc>Almanac</catDesc>
+            </category>
+            <category xml:id="keyword_1.4">
+              <catDesc>Anthology</catDesc>
+            </category>
+            <category xml:id="keyword_1.5">
+              <catDesc>Antiphonary</catDesc>
+            </category>
+            <category xml:id="keyword_1.6">
+              <catDesc>Armorial</catDesc>
+            </category>
+            <category xml:id="keyword_1.7">
+              <catDesc>Bible</catDesc>
+            </category>
+            <category xml:id="keyword_1.8">
+              <catDesc>Biography</catDesc>
+            </category>
+            <category xml:id="keyword_1.9">
+              <catDesc>Book of Hours</catDesc>
+            </category>
+            <category xml:id="keyword_1.10">
+              <catDesc>Breviary</catDesc>
+            </category>
+            <category xml:id="keyword_1.11">
+              <catDesc>Catalog</catDesc>
+            </category>
+            <category xml:id="keyword_1.12">
+              <catDesc>Chronicle</catDesc>
+            </category>
+            <category xml:id="keyword_1.13">
+              <catDesc>Collection of Sermons</catDesc>
+            </category>
+            <category xml:id="keyword_1.14">
+              <catDesc>Commentary</catDesc>
+            </category>
+            <category xml:id="keyword_1.15">
+              <catDesc>Compendium</catDesc>
+            </category>
+            <category xml:id="keyword_1.16">
+              <catDesc>Contract</catDesc>
+            </category>
+            <category xml:id="keyword_1.17">
+              <catDesc>Court records</catDesc>
+            </category>
+            <category xml:id="keyword_1.18">
+              <catDesc>Dictionary</catDesc>
+            </category>
+            <category xml:id="keyword_1.19">
+              <catDesc>Document</catDesc>
+            </category>
+            <category xml:id="keyword_1.20">
+              <catDesc>Dogale</catDesc>
+            </category>
+            <category xml:id="keyword_1.21">
+              <catDesc>Drama</catDesc>
+            </category>
+            <category xml:id="keyword_1.22">
+              <catDesc>Encyclopedia</catDesc>
+            </category>
+            <category xml:id="keyword_1.23">
+              <catDesc>Epic</catDesc>
+            </category>
+            <category xml:id="keyword_1.24">
+              <catDesc>Estate inventory</catDesc>
+            </category>
+            <category xml:id="keyword_1.25">
+              <catDesc>Friendship book</catDesc>
+            </category>
+            <category xml:id="keyword_1.26">
+              <catDesc>Genealogy</catDesc>
+            </category>
+            <category xml:id="keyword_1.27">
+              <catDesc>Glossary</catDesc>
+            </category>
+            <category xml:id="keyword_1.28">
+              <catDesc>Gospel Lectionary</catDesc>
+            </category>
+            <category xml:id="keyword_1.29">
+              <catDesc>Gospels</catDesc>
+            </category>
+            <category xml:id="keyword_1.30">
+              <catDesc>Government records</catDesc>
+            </category>
+            <category xml:id="keyword_1.31">
+              <catDesc>Gradual</catDesc>
+            </category>
+            <category xml:id="keyword_1.32">
+              <catDesc>Halakhah</catDesc>
+            </category>
+            <category xml:id="keyword_1.33">
+              <catDesc>Haggadah</catDesc>
+            </category>
+            <category xml:id="keyword_1.34">
+              <catDesc>Homilary</catDesc>
+            </category>
+            <category xml:id="keyword_1.35">
+              <catDesc>Horologion</catDesc>
+            </category>
+            <category xml:id="keyword_1.36">
+              <catDesc>Hybrid book</catDesc>
+            </category>
+            <category xml:id="keyword_1.37">
+              <catDesc>Hymnal</catDesc>
+            </category>
+            <category xml:id="keyword_1.38">
+              <catDesc>Inventory</catDesc>
+            </category>
+            <category xml:id="keyword_1.39">
+              <catDesc>Koran</catDesc>
+            </category>
+            <category xml:id="keyword_1.40">
+              <catDesc>Land survey</catDesc>
+            </category>
+            <category xml:id="keyword_1.41">
+              <catDesc>Lectionary</catDesc>
+            </category>
+            <category xml:id="keyword_1.42">
+              <catDesc>Lecture notes</catDesc>
+            </category>
+            <category xml:id="keyword_1.43">
+              <catDesc>Mass book</catDesc>
+            </category>
+            <category xml:id="keyword_1.44">
+              <catDesc>Miscellany</catDesc>
+            </category>
+            <category xml:id="keyword_1.45">
+              <catDesc>Missal</catDesc>
+            </category>
+            <category xml:id="keyword_1.46">
+              <catDesc>Passion play</catDesc>
+            </category>
+            <category xml:id="keyword_1.47">
+              <catDesc>Pontifical</catDesc>
+            </category>
+            <category xml:id="keyword_1.48">
+              <catDesc>Portolan chart</catDesc>
+            </category>
+            <category xml:id="keyword_1.49">
+              <catDesc>Prayer book</catDesc>
+            </category>
+            <category xml:id="keyword_1.50">
+              <catDesc>Private devotional text</catDesc>
+            </category>
+            <category xml:id="keyword_1.51">
+              <catDesc>Processional</catDesc>
+            </category>
+            <category xml:id="keyword_1.52">
+              <catDesc>Protective scroll</catDesc>
+            </category>
+            <category xml:id="keyword_1.53">
+              <catDesc>Psalter</catDesc>
+            </category>
+            <category xml:id="keyword_1.54">
+              <catDesc>Psalter-Hours</catDesc>
+            </category>
+            <category xml:id="keyword_1.55">
+              <catDesc>Qur`an</catDesc>
+            </category>
+            <category xml:id="keyword_1.56">
+              <catDesc>Recipe book</catDesc>
+            </category>
+            <category xml:id="keyword_1.57">
+              <catDesc>Register</catDesc>
+            </category>
+            <category xml:id="keyword_1.58">
+              <catDesc>Saint's Life</catDesc>
+            </category>
+            <category xml:id="keyword_1.59">
+              <catDesc>Scribal manual</catDesc>
+            </category>
+            <category xml:id="keyword_1.60">
+              <catDesc>Song book</catDesc>
+            </category>
+            <category xml:id="keyword_1.61">
+              <catDesc>Speech or address</catDesc>
+            </category>
+            <category xml:id="keyword_1.62">
+              <catDesc>Torah</catDesc>
+            </category>
+            <category xml:id="keyword_1.63">
+              <catDesc>Treatise</catDesc>
+            </category>
+            <category xml:id="keyword_1.64">
+              <catDesc>Will</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_2">
+            <catDesc>Century</catDesc>
+            <category xml:id="keyword_2.2">
+              <catDesc>6th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.3">
+              <catDesc>7th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.4">
+              <catDesc>8th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.5">
+              <catDesc>9th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.6">
+              <catDesc>10th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.7">
+              <catDesc>11th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.8">
+              <catDesc>12th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.9">
+              <catDesc>13th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.10">
+              <catDesc>14th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.11">
+              <catDesc>15th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.12">
+              <catDesc>16th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.13">
+              <catDesc>17th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.14">
+              <catDesc>18th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.15">
+              <catDesc>19th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.16">
+              <catDesc>20th century</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_3">
+            <catDesc>Culture</catDesc>
+            <category xml:id="keyword_3.2">
+              <catDesc>Abbasid</catDesc>
+            </category>
+            <category xml:id="keyword_3.3">
+              <catDesc>Arabic</catDesc>
+            </category>
+            <category xml:id="keyword_3.4">
+              <catDesc>Armenian</catDesc>
+            </category>
+            <category xml:id="keyword_3.5">
+              <catDesc>Ashkenazi</catDesc>
+            </category>
+            <category xml:id="keyword_3.6">
+              <catDesc>Austrian</catDesc>
+            </category>
+            <category xml:id="keyword_3.7">
+              <catDesc>Bohemian</catDesc>
+            </category>
+            <category xml:id="keyword_3.8">
+              <catDesc>Byzantine</catDesc>
+            </category>
+            <category xml:id="keyword_3.9">
+              <catDesc>Carolingian</catDesc>
+            </category>
+            <category xml:id="keyword_3.10">
+              <catDesc>Catalan</catDesc>
+            </category>
+            <category xml:id="keyword_3.11">
+              <catDesc>Chinese</catDesc>
+            </category>
+            <category xml:id="keyword_3.12">
+              <catDesc>Christian</catDesc>
+            </category>
+            <category xml:id="keyword_3.13">
+              <catDesc>Coptic</catDesc>
+            </category>
+            <category xml:id="keyword_3.14">
+              <catDesc>Dutch</catDesc>
+            </category>
+            <category xml:id="keyword_3.15">
+              <catDesc>Egyptian</catDesc>
+            </category>
+            <category xml:id="keyword_3.16">
+              <catDesc>English</catDesc>
+            </category>
+            <category xml:id="keyword_3.17">
+              <catDesc>Ethiopian</catDesc>
+            </category>
+            <category xml:id="keyword_3.18">
+              <catDesc>Fatimid</catDesc>
+            </category>
+            <category xml:id="keyword_3.19">
+              <catDesc>Filipino</catDesc>
+            </category>
+            <category xml:id="keyword_3.20">
+              <catDesc>Flemish</catDesc>
+            </category>
+            <category xml:id="keyword_3.21">
+              <catDesc>French</catDesc>
+            </category>
+            <category xml:id="keyword_3.22">
+              <catDesc>German</catDesc>
+            </category>
+            <category xml:id="keyword_3.23">
+              <catDesc>Greek</catDesc>
+            </category>
+            <category xml:id="keyword_3.24">
+              <catDesc>Hungarian</catDesc>
+            </category>
+            <category xml:id="keyword_3.25">
+              <catDesc>Indian</catDesc>
+            </category>
+            <category xml:id="keyword_3.26">
+              <catDesc>Islamic</catDesc>
+            </category>
+            <category xml:id="keyword_3.27">
+              <catDesc>Italian</catDesc>
+            </category>
+            <category xml:id="keyword_3.28">
+              <catDesc>Jewish</catDesc>
+            </category>
+            <category xml:id="keyword_3.29">
+              <catDesc>Karaite</catDesc>
+            </category>
+            <category xml:id="keyword_3.30">
+              <catDesc>Mamluk</catDesc>
+            </category>
+            <category xml:id="keyword_3.31">
+              <catDesc>Mexican</catDesc>
+            </category>
+            <category xml:id="keyword_3.32">
+              <catDesc>Mughal</catDesc>
+            </category>
+            <category xml:id="keyword_3.33">
+              <catDesc>Ottoman</catDesc>
+            </category>
+            <category xml:id="keyword_3.34">
+              <catDesc>Ottonian</catDesc>
+            </category>
+            <category xml:id="keyword_3.35">
+              <catDesc>Persian</catDesc>
+            </category>
+            <category xml:id="keyword_3.36">
+              <catDesc>Portuguese</catDesc>
+            </category>
+            <category xml:id="keyword_3.37">
+              <catDesc>Qajar</catDesc>
+            </category>
+            <category xml:id="keyword_3.38">
+              <catDesc>Rajput</catDesc>
+            </category>
+            <category xml:id="keyword_3.39">
+              <catDesc>Russian</catDesc>
+            </category>
+            <category xml:id="keyword_3.40">
+              <catDesc>Safavid</catDesc>
+            </category>
+            <category xml:id="keyword_3.41">
+              <catDesc>Sephardi</catDesc>
+            </category>
+            <category xml:id="keyword_3.42">
+              <catDesc>Spanish</catDesc>
+            </category>
+            <category xml:id="keyword_3.43">
+              <catDesc>Swiss</catDesc>
+            </category>
+            <category xml:id="keyword_3.44">
+              <catDesc>Timurid</catDesc>
+            </category>
+            <category xml:id="keyword_3.45">
+              <catDesc>Turkish</catDesc>
+            </category>
+            <category xml:id="keyword_3.46">
+              <catDesc>Yemenite</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_4">
+            <catDesc>Descriptive term</catDesc>
+            <category xml:id="keyword_4.2">
+              <catDesc>Accordion book</catDesc>
+            </category>
+            <category xml:id="keyword_4.3">
+              <catDesc>Album</catDesc>
+            </category>
+            <category xml:id="keyword_4.4">
+              <catDesc>Annotated</catDesc>
+            </category>
+            <category xml:id="keyword_4.5">
+              <catDesc>Binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.6">
+              <catDesc>Calendar</catDesc>
+            </category>
+            <category xml:id="keyword_4.7">
+              <catDesc>Calligraphy</catDesc>
+            </category>
+            <category xml:id="keyword_4.8">
+              <catDesc>Caroline minuscule</catDesc>
+            </category>
+            <category xml:id="keyword_4.9">
+              <catDesc>Chart</catDesc>
+            </category>
+            <category xml:id="keyword_4.10">
+              <catDesc>Charter</catDesc>
+            </category>
+            <category xml:id="keyword_4.11">
+              <catDesc>Colophon</catDesc>
+            </category>
+            <category xml:id="keyword_4.12">
+              <catDesc>Damage</catDesc>
+            </category>
+            <category xml:id="keyword_4.13">
+              <catDesc>Diagrams</catDesc>
+            </category>
+            <category xml:id="keyword_4.14">
+              <catDesc>Drawing</catDesc>
+            </category>
+            <category xml:id="keyword_4.15">
+              <catDesc>Early Abbasid script</catDesc>
+            </category>
+            <category xml:id="keyword_4.16">
+              <catDesc>Engraving</catDesc>
+            </category>
+            <category xml:id="keyword_4.17">
+              <catDesc>Forgery</catDesc>
+            </category>
+            <category xml:id="keyword_4.18">
+              <catDesc>Fragment</catDesc>
+            </category>
+            <category xml:id="keyword_4.19">
+              <catDesc>Gloss</catDesc>
+            </category>
+            <category xml:id="keyword_4.20">
+              <catDesc>Gothic</catDesc>
+            </category>
+            <category xml:id="keyword_4.21">
+              <catDesc>Gothic book hand</catDesc>
+            </category>
+            <category xml:id="keyword_4.22">
+              <catDesc>Grisaille</catDesc>
+            </category>
+            <category xml:id="keyword_4.23">
+              <catDesc>Grotesques</catDesc>
+            </category>
+            <category xml:id="keyword_4.24">
+              <catDesc>Headpiece</catDesc>
+            </category>
+            <category xml:id="keyword_4.25">
+              <catDesc>Heraldry</catDesc>
+            </category>
+            <category xml:id="keyword_4.26">
+              <catDesc>Historiated initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.27">
+              <catDesc>Humanistic</catDesc>
+            </category>
+            <category xml:id="keyword_4.28">
+              <catDesc>Illumination</catDesc>
+            </category>
+            <category xml:id="keyword_4.29">
+              <catDesc>Illustration</catDesc>
+            </category>
+            <category xml:id="keyword_4.30">
+              <catDesc>Inhabited initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.31">
+              <catDesc>Kufic</catDesc>
+            </category>
+            <category xml:id="keyword_4.32">
+              <catDesc>Manicules</catDesc>
+            </category>
+            <category xml:id="keyword_4.33">
+              <catDesc>Medallion</catDesc>
+            </category>
+            <category xml:id="keyword_4.34">
+              <catDesc>Micrography</catDesc>
+            </category>
+            <category xml:id="keyword_4.35">
+              <catDesc>Miniature</catDesc>
+            </category>
+            <category xml:id="keyword_4.36">
+              <catDesc>Missing leaves</catDesc>
+            </category>
+            <category xml:id="keyword_4.37">
+              <catDesc>Musical notation</catDesc>
+            </category>
+            <category xml:id="keyword_4.38">
+              <catDesc>New Abbasid style</catDesc>
+            </category>
+            <category xml:id="keyword_4.39">
+              <catDesc>Notable binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.40">
+              <catDesc>Original binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.41">
+              <catDesc>Ornament</catDesc>
+            </category>
+            <category xml:id="keyword_4.42">
+              <catDesc>Painting</catDesc>
+            </category>
+            <category xml:id="keyword_4.43">
+              <catDesc>Palimpsest</catDesc>
+            </category>
+            <category xml:id="keyword_4.44">
+              <catDesc>Paper</catDesc>
+            </category>
+            <category xml:id="keyword_4.45">
+              <catDesc>Penwork initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.46">
+              <catDesc>Puzzle initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.47">
+              <catDesc>Ragini</catDesc>
+            </category>
+            <category xml:id="keyword_4.48">
+              <catDesc>Romanesque</catDesc>
+            </category>
+            <category xml:id="keyword_4.49">
+              <catDesc>Scrapbook</catDesc>
+            </category>
+            <category xml:id="keyword_4.50">
+              <catDesc>Scroll</catDesc>
+            </category>
+            <category xml:id="keyword_4.51">
+              <catDesc>Scroll-work initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.52">
+              <catDesc>Seals</catDesc>
+            </category>
+            <category xml:id="keyword_4.53">
+              <catDesc>Tables</catDesc>
+            </category>
+            <category xml:id="keyword_4.54">
+              <catDesc>Textura</catDesc>
+            </category>
+            <category xml:id="keyword_4.55">
+              <catDesc>Treasure binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.56">
+              <catDesc>Watermark</catDesc>
+            </category>
+            <category xml:id="keyword_4.57">
+              <catDesc>White-vine lettering</catDesc>
+            </category>
+            <category xml:id="keyword_4.58">
+              <catDesc>Woodcuts</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_5">
+            <catDesc>Geography</catDesc>
+            <category xml:id="keyword_5.2">
+              <catDesc>Afghanistan</catDesc>
+            </category>
+            <category xml:id="keyword_5.3">
+              <catDesc>Armenia</catDesc>
+            </category>
+            <category xml:id="keyword_5.4">
+              <catDesc>Austria</catDesc>
+            </category>
+            <category xml:id="keyword_5.5">
+              <catDesc>Belgium</catDesc>
+            </category>
+            <category xml:id="keyword_5.6">
+              <catDesc>Central Arab lands (Near East)</catDesc>
+            </category>
+            <category xml:id="keyword_5.7">
+              <catDesc>Central Asia</catDesc>
+            </category>
+            <category xml:id="keyword_5.8">
+              <catDesc>China</catDesc>
+            </category>
+            <category xml:id="keyword_5.9">
+              <catDesc>Croatia</catDesc>
+            </category>
+            <category xml:id="keyword_5.10">
+              <catDesc>Czech Republic</catDesc>
+            </category>
+            <category xml:id="keyword_5.11">
+              <catDesc>Egypt</catDesc>
+            </category>
+            <category xml:id="keyword_5.12">
+              <catDesc>England</catDesc>
+            </category>
+            <category xml:id="keyword_5.13">
+              <catDesc>Ethiopia</catDesc>
+            </category>
+            <category xml:id="keyword_5.14">
+              <catDesc>Flanders</catDesc>
+            </category>
+            <category xml:id="keyword_5.15">
+              <catDesc>France</catDesc>
+            </category>
+            <category xml:id="keyword_5.16">
+              <catDesc>Germany</catDesc>
+            </category>
+            <category xml:id="keyword_5.17">
+              <catDesc>Greece</catDesc>
+            </category>
+            <category xml:id="keyword_5.18">
+              <catDesc>Hungary</catDesc>
+            </category>
+            <category xml:id="keyword_5.19">
+              <catDesc>India</catDesc>
+            </category>
+            <category xml:id="keyword_5.20">
+              <catDesc>Iran</catDesc>
+            </category>
+            <category xml:id="keyword_5.21">
+              <catDesc>Iraq</catDesc>
+            </category>
+            <category xml:id="keyword_5.22">
+              <catDesc>Israel</catDesc>
+            </category>
+            <category xml:id="keyword_5.23">
+              <catDesc>Italy</catDesc>
+            </category>
+            <category xml:id="keyword_5.24">
+              <catDesc>Maghreb</catDesc>
+            </category>
+            <category xml:id="keyword_5.25">
+              <catDesc>Mexico</catDesc>
+            </category>
+            <category xml:id="keyword_5.26">
+              <catDesc>Morocco</catDesc>
+            </category>
+            <category xml:id="keyword_5.27">
+              <catDesc>Netherlands</catDesc>
+            </category>
+            <category xml:id="keyword_5.28">
+              <catDesc>Pakistan</catDesc>
+            </category>
+            <category xml:id="keyword_5.29">
+              <catDesc>Philippines</catDesc>
+            </category>
+            <category xml:id="keyword_5.30">
+              <catDesc>Poland</catDesc>
+            </category>
+            <category xml:id="keyword_5.31">
+              <catDesc>Portugal</catDesc>
+            </category>
+            <category xml:id="keyword_5.32">
+              <catDesc>Romania</catDesc>
+            </category>
+            <category xml:id="keyword_5.33">
+              <catDesc>Russia</catDesc>
+            </category>
+            <category xml:id="keyword_5.34">
+              <catDesc>Spain</catDesc>
+            </category>
+            <category xml:id="keyword_5.35">
+              <catDesc>Sub-Saharan (West) Africa</catDesc>
+            </category>
+            <category xml:id="keyword_5.36">
+              <catDesc>Switzerland</catDesc>
+            </category>
+            <category xml:id="keyword_5.37">
+              <catDesc>Turkey</catDesc>
+            </category>
+            <category xml:id="keyword_5.38">
+              <catDesc>United States</catDesc>
+            </category>
+            <category xml:id="keyword_5.39">
+              <catDesc>Wales</catDesc>
+            </category>
+            <category xml:id="keyword_5.40">
+              <catDesc>Yemen</catDesc>
+            </category>
+          </category>
+          <category xml:id="keyword_6">
+            <catDesc>Other</catDesc>
+            <category xml:id="keyword_6.2">
+              <catDesc>Alchemy</catDesc>
+            </category>
+            <category xml:id="keyword_6.3">
+              <catDesc>Allegory</catDesc>
+            </category>
+            <category xml:id="keyword_6.4">
+              <catDesc>Animal culture</catDesc>
+            </category>
+            <category xml:id="keyword_6.5">
+              <catDesc>Aphorisms</catDesc>
+            </category>
+            <category xml:id="keyword_6.6">
+              <catDesc>Astrology</catDesc>
+            </category>
+            <category xml:id="keyword_6.7">
+              <catDesc>Astronomy</catDesc>
+            </category>
+            <category xml:id="keyword_6.8">
+              <catDesc>Biblical</catDesc>
+            </category>
+            <category xml:id="keyword_6.9">
+              <catDesc>Binding waste</catDesc>
+            </category>
+            <category xml:id="keyword_6.10">
+              <catDesc>Cartography</catDesc>
+            </category>
+            <category xml:id="keyword_6.11">
+              <catDesc>Catholic church</catDesc>
+            </category>
+            <category xml:id="keyword_6.12">
+              <catDesc>Chemistry</catDesc>
+            </category>
+            <category xml:id="keyword_6.13">
+              <catDesc>Church Fathers</catDesc>
+            </category>
+            <category xml:id="keyword_6.14">
+              <catDesc>City planning</catDesc>
+            </category>
+            <category xml:id="keyword_6.15">
+              <catDesc>Cosmology</catDesc>
+            </category>
+            <category xml:id="keyword_6.16">
+              <catDesc>Cryptography</catDesc>
+            </category>
+            <category xml:id="keyword_6.17">
+              <catDesc>Devotion</catDesc>
+            </category>
+            <category xml:id="keyword_6.18">
+              <catDesc>Dialogue</catDesc>
+            </category>
+            <category xml:id="keyword_6.19">
+              <catDesc>Ethics</catDesc>
+            </category>
+            <category xml:id="keyword_6.20">
+              <catDesc>Financial records</catDesc>
+            </category>
+            <category xml:id="keyword_6.21">
+              <catDesc>Fortune-telling</catDesc>
+            </category>
+            <category xml:id="keyword_6.22">
+              <catDesc>Franciscans</catDesc>
+            </category>
+            <category xml:id="keyword_6.23">
+              <catDesc>Friendship</catDesc>
+            </category>
+            <category xml:id="keyword_6.24">
+              <catDesc>Games</catDesc>
+            </category>
+            <category xml:id="keyword_6.25">
+              <catDesc>Geography</catDesc>
+            </category>
+            <category xml:id="keyword_6.26">
+              <catDesc>Geomancy</catDesc>
+            </category>
+            <category xml:id="keyword_6.27">
+              <catDesc>Grammar</catDesc>
+            </category>
+            <category xml:id="keyword_6.28">
+              <catDesc>History</catDesc>
+            </category>
+            <category xml:id="keyword_6.29">
+              <catDesc>Index</catDesc>
+            </category>
+            <category xml:id="keyword_6.30">
+              <catDesc>Instructional materials</catDesc>
+            </category>
+            <category xml:id="keyword_6.31">
+              <catDesc>Kabbalah</catDesc>
+            </category>
+            <category xml:id="keyword_6.32">
+              <catDesc>Legal</catDesc>
+            </category>
+            <category xml:id="keyword_6.33">
+              <catDesc>Lists</catDesc>
+            </category>
+            <category xml:id="keyword_6.34">
+              <catDesc>Literature -- Poetry</catDesc>
+            </category>
+            <category xml:id="keyword_6.35">
+              <catDesc>Literature -- Prose</catDesc>
+            </category>
+            <category xml:id="keyword_6.36">
+              <catDesc>Liturgy</catDesc>
+            </category>
+            <category xml:id="keyword_6.37">
+              <catDesc>Logic</catDesc>
+            </category>
+            <category xml:id="keyword_6.38">
+              <catDesc>Magic</catDesc>
+            </category>
+            <category xml:id="keyword_6.39">
+              <catDesc>Maps</catDesc>
+            </category>
+            <category xml:id="keyword_6.40">
+              <catDesc>Maritime</catDesc>
+            </category>
+            <category xml:id="keyword_6.41">
+              <catDesc>Mathematics</catDesc>
+            </category>
+            <category xml:id="keyword_6.42">
+              <catDesc>Medieval romance</catDesc>
+            </category>
+            <category xml:id="keyword_6.43">
+              <catDesc>Metaphysics</catDesc>
+            </category>
+            <category xml:id="keyword_6.44">
+              <catDesc>Meteorology</catDesc>
+            </category>
+            <category xml:id="keyword_6.45">
+              <catDesc>Military art and science</catDesc>
+            </category>
+            <category xml:id="keyword_6.46">
+              <catDesc>Mineralogy</catDesc>
+            </category>
+            <category xml:id="keyword_6.47">
+              <catDesc>Mysticism</catDesc>
+            </category>
+            <category xml:id="keyword_6.48">
+              <catDesc>Penitential</catDesc>
+            </category>
+            <category xml:id="keyword_6.49">
+              <catDesc>Philosophy</catDesc>
+            </category>
+            <category xml:id="keyword_6.50">
+              <catDesc>Piyutim</catDesc>
+            </category>
+            <category xml:id="keyword_6.51">
+              <catDesc>Polemic</catDesc>
+            </category>
+            <category xml:id="keyword_6.52">
+              <catDesc>Responsa</catDesc>
+            </category>
+            <category xml:id="keyword_6.53">
+              <catDesc>Rhetoric</catDesc>
+            </category>
+            <category xml:id="keyword_6.54">
+              <catDesc>Schedule</catDesc>
+            </category>
+            <category xml:id="keyword_6.55">
+              <catDesc>Science</catDesc>
+            </category>
+            <category xml:id="keyword_6.56">
+              <catDesc>Science -- Medicine</catDesc>
+            </category>
+            <category xml:id="keyword_6.57">
+              <catDesc>Scripture</catDesc>
+            </category>
+            <category xml:id="keyword_6.58">
+              <catDesc>Shipbuilding</catDesc>
+            </category>
+            <category xml:id="keyword_6.59">
+              <catDesc>Statutes</catDesc>
+            </category>
+            <category xml:id="keyword_6.60">
+              <catDesc>Storytelling</catDesc>
+            </category>
+            <category xml:id="keyword_6.61">
+              <catDesc>Sufism</catDesc>
+            </category>
+            <category xml:id="keyword_6.62">
+              <catDesc>Theology</catDesc>
+            </category>
+            <category xml:id="keyword_6.63">
+              <catDesc>Wine and winemaking</catDesc>
+            </category>
+          </category>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Geometry--Early works to 1800</term>
+          <term>Architecture--Orders--Early works to 1800</term>
+          <term>Ink--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>diagrams</term>
+          <term>codices (bound manuscripts)</term>
+          <term>treatises</term>
+          <term>Excerpts</term>
+          <term>Recipes</term>
+          <term>Manuscripts, Italian--15th century</term>
+          <term>Manuscripts, Italian--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+        <keywords n="keywords">
+          <term>15th century</term>
+          <term>16th century</term>
+          <term>Paper</term>
+          <term>Italy</term>
+          <term>Italian</term>
+          <term>Diagrams</term>
+          <term>Mathematics</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover" xml:id="surface-ljs-488-1">
+      <graphic height="3575px" url="master/0019_0000.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0000_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0000_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="Inside front cover" xml:id="surface-ljs-488-2">
+      <graphic height="3575px" url="master/0019_0001.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0001_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0001_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto" xml:id="surface-ljs-488-3">
+      <graphic height="3575px" url="master/0019_0002.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0002_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0002_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso" xml:id="surface-ljs-488-4">
+      <graphic height="3575px" url="master/0019_0003.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0003_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0003_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="1r" xml:id="surface-ljs-488-5">
+      <graphic height="3575px" url="master/0019_0004.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0004_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0004_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="1v" xml:id="surface-ljs-488-6">
+      <graphic height="3575px" url="master/0019_0005.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0005_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0005_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="2r" xml:id="surface-ljs-488-7">
+      <graphic height="3575px" url="master/0019_0006.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0006_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0006_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="2v" xml:id="surface-ljs-488-8">
+      <graphic height="3575px" url="master/0019_0007.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0007_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0007_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="3r" xml:id="surface-ljs-488-9">
+      <graphic height="3575px" url="master/0019_0008.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0008_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0008_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="3v" xml:id="surface-ljs-488-10">
+      <graphic height="3575px" url="master/0019_0009.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0009_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0009_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="4r" xml:id="surface-ljs-488-11">
+      <graphic height="3575px" url="master/0019_0010.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0010_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0010_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="4v" xml:id="surface-ljs-488-12">
+      <graphic height="3575px" url="master/0019_0011.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0011_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0011_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="5r" xml:id="surface-ljs-488-13">
+      <graphic height="3575px" url="master/0019_0012.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0012_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0012_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="5v" xml:id="surface-ljs-488-14">
+      <graphic height="3575px" url="master/0019_0013.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0013_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0013_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="6r" xml:id="surface-ljs-488-15">
+      <graphic height="3575px" url="master/0019_0014.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0014_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0014_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="6v" xml:id="surface-ljs-488-16">
+      <graphic height="3575px" url="master/0019_0015.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0015_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0015_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="7r" xml:id="surface-ljs-488-17">
+      <graphic height="3575px" url="master/0019_0016.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0016_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0016_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="7v" xml:id="surface-ljs-488-18">
+      <graphic height="3575px" url="master/0019_0017.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0017_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0017_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="8r" xml:id="surface-ljs-488-19">
+      <graphic height="3575px" url="master/0019_0018.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0018_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0018_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="8v" xml:id="surface-ljs-488-20">
+      <graphic height="3575px" url="master/0019_0019.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0019_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0019_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="9r" xml:id="surface-ljs-488-21">
+      <graphic height="3575px" url="master/0019_0020.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0020_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0020_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="9v" xml:id="surface-ljs-488-22">
+      <graphic height="3575px" url="master/0019_0021.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0021_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0021_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="10r" xml:id="surface-ljs-488-23">
+      <graphic height="3575px" url="master/0019_0022.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0022_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0022_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="10v" xml:id="surface-ljs-488-24">
+      <graphic height="3575px" url="master/0019_0023.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0023_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0023_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="11r" xml:id="surface-ljs-488-25">
+      <graphic height="3575px" url="master/0019_0024.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0024_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0024_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="11v" xml:id="surface-ljs-488-26">
+      <graphic height="3575px" url="master/0019_0025.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0025_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0025_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="12r" xml:id="surface-ljs-488-27">
+      <graphic height="3575px" url="master/0019_0026.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0026_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0026_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="12v" xml:id="surface-ljs-488-28">
+      <graphic height="3575px" url="master/0019_0027.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0027_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0027_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="13r" xml:id="surface-ljs-488-29">
+      <graphic height="3575px" url="master/0019_0028.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0028_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0028_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="13v" xml:id="surface-ljs-488-30">
+      <graphic height="3575px" url="master/0019_0029.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0029_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0029_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="14r" xml:id="surface-ljs-488-31">
+      <graphic height="3575px" url="master/0019_0030.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0030_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0030_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="14v" xml:id="surface-ljs-488-32">
+      <graphic height="3575px" url="master/0019_0031.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0031_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0031_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="15r" xml:id="surface-ljs-488-33">
+      <graphic height="3575px" url="master/0019_0032.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0032_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0032_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="15v" xml:id="surface-ljs-488-34">
+      <graphic height="3575px" url="master/0019_0033.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0033_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0033_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="16r" xml:id="surface-ljs-488-35">
+      <graphic height="3575px" url="master/0019_0034.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0034_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0034_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="16v" xml:id="surface-ljs-488-36">
+      <graphic height="3575px" url="master/0019_0035.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0035_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0035_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="17r" xml:id="surface-ljs-488-37">
+      <graphic height="3575px" url="master/0019_0036.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0036_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0036_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="17v" xml:id="surface-ljs-488-38">
+      <graphic height="3575px" url="master/0019_0037.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0037_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0037_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="18r" xml:id="surface-ljs-488-39">
+      <graphic height="3575px" url="master/0019_0038.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0038_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0038_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="18v" xml:id="surface-ljs-488-40">
+      <graphic height="3575px" url="master/0019_0039.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0039_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0039_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto" xml:id="surface-ljs-488-41">
+      <graphic height="3575px" url="master/0019_0040.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0040_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0040_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso" xml:id="surface-ljs-488-42">
+      <graphic height="3575px" url="master/0019_0041.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0041_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0041_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="Inside back cover" xml:id="surface-ljs-488-43">
+      <graphic height="3575px" url="master/0019_0042.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0042_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0042_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="Back cover" xml:id="surface-ljs-488-44">
+      <graphic height="3575px" url="master/0019_0043.tif" width="2883px"/>
+      <graphic height="190px" url="thumb/0019_0043_thumb.jpg" width="153px"/>
+      <graphic height="1800px" url="web/0019_0043_web.jpg" width="1451px"/>
+    </surface>
+    <surface n="Spine" xml:id="surface-ljs-488-45">
+      <graphic height="3575px" url="master/0019_0044.tif" width="445px"/>
+      <graphic height="190px" url="thumb/0019_0044_thumb.jpg" width="23px"/>
+      <graphic height="1800px" url="web/0019_0044_web.jpg" width="224px"/>
+    </surface>
+  </facsimile>
+</TEI>

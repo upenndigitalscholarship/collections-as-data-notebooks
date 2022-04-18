@@ -1,0 +1,17 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+<div class="vega-visualization" id="vega-visualization-d53c50d65e1843ed9999dc278de07dbe"></div>
+<script type="text/javascript">
+  const spec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "layer": [{"mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"}, "projection": {"type": "equirectangular"}, "width": 700}, {"mark": {"type": "geoshape", "stroke": "white"}, "encoding": {"color": {"field": "Count", "legend": {"title": "Number of manuscripts"}, "scale": {"scheme": "greenblue"}, "type": "quantitative"}, "tooltip": [{"field": "Country_Keywords", "title": "Country", "type": "nominal"}, {"field": "Count", "title": "Number of manuscripts", "type": "quantitative"}]}, "projection": {"type": "equirectangular"}, "title": "Countries where manuscripts originate", "transform": [{"lookup": "id", "from": {"data": {"name": "data-31c7bd8fb52985434b54b7f4ebc416cf"}, "key": "numeric", "fields": ["Count", "Country_Keywords"]}}], "width": 700}], "data": {"url": "https://cdn.jsdelivr.net/npm/vega-datasets@v1.29.0/data/world-110m.json", "format": {"feature": "countries", "type": "topojson"}}, "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json", "datasets": {"data-31c7bd8fb52985434b54b7f4ebc416cf": [{"Country_Keywords": "Italy", "Count": 1164, "numeric": 380.0}, {"Country_Keywords": "France", "Count": 491, "numeric": 250}, {"Country_Keywords": "Germany", "Count": 291, "numeric": 276.0}, {"Country_Keywords": "United Kingdom", "Count": 184, "numeric": 826}, {"Country_Keywords": "Austria", "Count": 114, "numeric": 40}, {"Country_Keywords": "Spain", "Count": 113, "numeric": 724}, {"Country_Keywords": "Belgium", "Count": 110, "numeric": 56}, {"Country_Keywords": "Netherlands", "Count": 32, "numeric": 528}, {"Country_Keywords": "Czech Republic", "Count": 13, "numeric": 203}, {"Country_Keywords": "Greece", "Count": 10, "numeric": 300}, {"Country_Keywords": "Poland", "Count": 8, "numeric": 616}, {"Country_Keywords": "Portugal", "Count": 8, "numeric": 620}, {"Country_Keywords": "Switzerland", "Count": 4, "numeric": 756}, {"Country_Keywords": "Hungary", "Count": 3, "numeric": 348}, {"Country_Keywords": "Armenia", "Count": 3, "numeric": 51}, {"Country_Keywords": "Turkey", "Count": 2, "numeric": 792}, {"Country_Keywords": "Luxembourg", "Count": 1, "numeric": 442}, {"Country_Keywords": "Slovenia", "Count": 1, "numeric": 705}, {"Country_Keywords": "Croatia", "Count": 1, "numeric": 191}]}};
+  const embedOpt = {};
+  vegaEmbed('#vega-visualization-d53c50d65e1843ed9999dc278de07dbe', spec, embedOpt).catch(console.error);
+</script>
+</body>
+</html>
