@@ -1,9 +1,4 @@
-# Collections As Data Notebooks at Penn Libraries
-
-These notebooks contain tutorials and examples for working with collections data from Penn Libraries.
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/upenndigitalscholarship/collections-as-data-notebooks/HEAD)
-
-## Working With Colenda Data
+## Working With OPenn Data
 [OPenn](https://openn.library.upenn.edu/) contains complete sets of high-resolution archival images of manuscripts from the University of Pennsylvania Libraries and other institutions, along with machine-readable TEI P5 descriptions and technical metadata. All materials on this site are in the public domain or released under Creative Commons licenses as Free Cultural Works.
 
 These notebooks use data from the the [Bibliotheca Philadelphiensis project](http://bibliophilly.pacscl.org/), referred to as BiblioPhilly, to understand how to work with images and data hosted by OPenn. This project, pursued by the Philadelphia Area Consortium of Special Collections Libraries, contains digital editions of more than 400 western European medieval and early modern codices, plus selected leaves and cuttings from the following PACSCL member institutions.

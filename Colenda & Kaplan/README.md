@@ -1,4 +1,7 @@
 # Working With Colenda Data
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/upenndigitalscholarship/collections-as-data-notebooks/tree/main/OPenn%20%26%20BiblioPhilly/HEAD)
+
 [Colenda Digital Repository at Penn Libraries](https://colenda.library.upenn.edu/) is a digital repository for digitized and born-digital material. It provides direct access and long-term stewardship for these important resources. Much of Colenda’s content consists of materials owned and digitized by the Penn Libraries, including significant collections that have been donated.
 
 These notebooks use data from the [Arnold and Deanne Kaplan Collection of Early American Judaica](https://kaplan.exhibits.library.upenn.edu/) to explore how to work with data from Colenda.
