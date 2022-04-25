@@ -1,6 +1,11 @@
 # Collections As Data Notebooks at Penn Libraries
 
 These notebooks contain tutorials and examples for working with collections data from Penn Libraries. Find the Binder link to open notebooks associated with a specific Penn Libraries repository. 
+You can view them all here: 
+
+[![Binder](https://mybinder.org/v2/gh/upenndigitalscholarship/collections-as-data-notebooks/HEAD)
+
+Or you can view them by repository below. 
 
 ## Working With Colenda Data
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/upenndigitalscholarship/collections-as-data-notebooks/tree/main/OPenn%20%26%20BiblioPhilly/HEAD)
