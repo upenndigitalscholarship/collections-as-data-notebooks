@@ -1,21 +1,16 @@
 # Collections As Data Notebooks at Penn Libraries
 
 These notebooks contain tutorials and examples for working with collections data from Penn Libraries. Find the Binder link to open notebooks associated with a specific Penn Libraries repository. 
-You can view them all here: 
 
-[![Binder]((https://mybinder.org/badge_logo.svg))](https://mybinder.org/v2/gh/upenndigitalscholarship/collections-as-data-notebooks/HEAD)
+Click on the header to view the related notebooks.
 
-Or you can view them by repository below. 
-
-## Working With Colenda Data
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/upenndigitalscholarship/collections-as-data-notebooks/tree/main/OPenn%20%26%20BiblioPhilly/HEAD)
+## [Working With Colenda Data](https://github.com/upenndigitalscholarship/collections-as-data-notebooks/tree/main/Colenda%20%26%20Kaplan)
 
 [Colenda Digital Repository at Penn Libraries](https://colenda.library.upenn.edu/) is a digital repository for digitized and born-digital material. It provides direct access and long-term stewardship for these important resources. Much of Colenda’s content consists of materials owned and digitized by the Penn Libraries, including significant collections that have been donated.
 
 These notebooks use data from the [Arnold and Deanne Kaplan Collection of Early American Judaica](https://kaplan.exhibits.library.upenn.edu/) to explore how to work with data from Colenda.
 
-## Working With OPenn Data
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/upenndigitalscholarship/collections-as-data-notebooks/HEAD)
+## [Working With OPenn Data](https://github.com/upenndigitalscholarship/collections-as-data-notebooks/tree/main/OPenn%20%26%20BiblioPhilly)
 
 [OPenn](https://openn.library.upenn.edu/) contains complete sets of high-resolution archival images of manuscripts from the University of Pennsylvania Libraries and other institutions, along with machine-readable TEI P5 descriptions and technical metadata. All materials on this site are in the public domain or released under Creative Commons licenses as Free Cultural Works.
 
